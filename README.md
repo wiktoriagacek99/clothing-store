@@ -1,4 +1,7 @@
-# clothing-store
+## Clothing store
+
+This is my first project made in Vue.js. The layout of the website was taken from free templates at w3schools.com.
+The project includes adding products to the cart, handling the cart, the process of filling in data with validation.
 
 ## Project setup
 ```
