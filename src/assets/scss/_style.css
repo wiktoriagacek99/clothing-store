@@ -1,0 +1,9 @@
+.w3-sidebar a {font-family: "Roboto", sans-serif}
+body,h1,h2,h3,h4,h5,h6,.w3-wide {font-family: "Montserrat", sans-serif;}
+.body{max-width: 1200px}
+.router-link-active {text-decoration: none}
+.not-found {
+  margin-top: 60px;
+  font-size: 35px;
+  font-weight: bolder;
+}
